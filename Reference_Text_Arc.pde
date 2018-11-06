@@ -32,5 +32,5 @@ void draw() {
 //textSize(18);
 //text("("+mouseX+","+mouseY+")", mouseX, mouseY);
 
-save("DECLANCHAN.BRINGMEADREAM.png");  
+
 }
